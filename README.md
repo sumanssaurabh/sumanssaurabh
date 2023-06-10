@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=sumanssaurabh.sumanssaurabh)
+![](https://komarev.com/ghpvc/?username=sumanssaurabh&&style=flat-square)
 
 
 ## &#x1f4c8; GitHub Stats
